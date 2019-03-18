@@ -1,0 +1,215 @@
+
+* {
+ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  
+  html,
+  body {
+    
+    line-height: 1.7em;
+  }
+ .smile{
+   color: gray;
+   text-decoration:block;
+ }
+  
+  a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  
+  
+  h3 {
+
+    padding-bottom: 20px;
+  }
+  
+  p {
+    margin: 10px 0;
+  }
+  
+  
+  .joke {
+    margin: auto;
+    max-width: 1100px;
+    overflow: auto;
+    padding: 0 20px;
+  }
+  
+  .text-primary {
+    color: silver;
+  }
+  
+  .lead {
+    font-size: 20px;
+  }
+  
+  .bbt {
+    display: inline-block;
+    font-size: 18px;
+    color:rebeccapurple;
+    background: #333;
+    padding: 13px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  
+  
+  .btn-light {
+    background: grey;
+    color: #333;
+  }
+  .btn:hover {
+    background: #f7c08a;
+    color: #333;
+  }
+
+  .bg-dark {
+    background: silver;
+    color: #fff;
+  }
+  
+  .bg-light {
+    background: gray;
+    color: #333;
+  }
+  
+  
+  .xix {
+    clear: both;
+  }
+  
+  .bg-primary {
+    background: #f7c08a;
+    color: #333;
+  }
+
+
+
+  .l-heading {
+    font-size: 40px;
+    line-height: 1.2;
+  }
+  
+
+  
+
+  #nav-bat {
+    background: #333;
+    color: #fff;
+    overflow: auto;
+  }
+  
+  #nav-bat a {
+    color: #fff;
+  }
+  
+  #nav-bat .smile {
+    float: left;
+    padding-top: 20px;
+  }
+  
+  #nav-bat ul {
+    list-style: none;
+    float: right;
+  }
+  
+  #nav-bat ul li {
+    float: left;
+  }
+  
+  #nav-bat ul li a {
+    display: block;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #nav-bat ul li a:hover,
+  #nav-bat ul li a.cape {
+    background: #444;
+    color: silver;
+  
+  }
+  
+  
+  #laugh {
+    background: url("../img/showcase.jpg") no-repeat center center/cover;
+    height: 600px
+  }
+  
+
+
+
+
+  #laugh #showcase-content {
+    color: blue;
+    text-align: center;
+    padding-top: 170px;
+  }
+  
+  #laugh #showcase-content h1 {
+    font-size: 60px;
+    line-height: 1.2em;
+  }
+  
+  #laugh #showcase-content p {
+    padding-bottom: 20px;
+    line-height: 1.7em;
+  }
+  
+  
+  #info {
+    height: 400px;
+  }
+  
+  #info .info-pic {
+    float: left;
+    width: 50%;
+    background: url("../img/photo-8.jpg") no-repeat;
+    min-height: 100%;
+  }
+  
+  #info .info-content {
+    float: right;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    padding: 50px 30px;
+    overflow: hidden;
+  }
+  
+  #info .info-content p {
+    padding-bottom: 30px;
+  }
+  
+  
+  .box {
+    float: left;
+    width: 33%;
+    padding: 50px;
+    text-align: center;
+  }
+  .box i {
+    margin-bottom: 10px;
+  }
+  
+  
+
+  
+  
+  
+  
+  
+  #bat-mobile {
+    text-align: center;
+    background: #444;
+    color: white;
+    padding: 20px;
+  }
+  
